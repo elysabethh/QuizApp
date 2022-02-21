@@ -1,3 +1,3 @@
 # QuizApp
-This is a project for testing application
-Author Elizabete Sprukte
+This is a project for testing application.
+Author-Elizabete Sprukte
